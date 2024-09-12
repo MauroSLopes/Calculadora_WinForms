@@ -1,0 +1,17 @@
+C:\Users\Mauro\OneDrive\Documentos\Csharp\Calculadora_WinForms\Calculadora_WinForms\bin\Debug\net8.0-windows\Calculadora_WinForms.exe
+C:\Users\Mauro\OneDrive\Documentos\Csharp\Calculadora_WinForms\Calculadora_WinForms\bin\Debug\net8.0-windows\Calculadora_WinForms.deps.json
+C:\Users\Mauro\OneDrive\Documentos\Csharp\Calculadora_WinForms\Calculadora_WinForms\bin\Debug\net8.0-windows\Calculadora_WinForms.runtimeconfig.json
+C:\Users\Mauro\OneDrive\Documentos\Csharp\Calculadora_WinForms\Calculadora_WinForms\bin\Debug\net8.0-windows\Calculadora_WinForms.dll
+C:\Users\Mauro\OneDrive\Documentos\Csharp\Calculadora_WinForms\Calculadora_WinForms\bin\Debug\net8.0-windows\Calculadora_WinForms.pdb
+C:\Users\Mauro\OneDrive\Documentos\Csharp\Calculadora_WinForms\Calculadora_WinForms\obj\Debug\net8.0-windows\Calculadora_WinForms.Form1.resources
+C:\Users\Mauro\OneDrive\Documentos\Csharp\Calculadora_WinForms\Calculadora_WinForms\obj\Debug\net8.0-windows\Calculadora_WinForms.csproj.GenerateResource.cache
+C:\Users\Mauro\OneDrive\Documentos\Csharp\Calculadora_WinForms\Calculadora_WinForms\obj\Debug\net8.0-windows\Calculadora_WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\OneDrive\Documentos\Csharp\Calculadora_WinForms\Calculadora_WinForms\obj\Debug\net8.0-windows\Calculadora_WinForms.AssemblyInfoInputs.cache
+C:\Users\Mauro\OneDrive\Documentos\Csharp\Calculadora_WinForms\Calculadora_WinForms\obj\Debug\net8.0-windows\Calculadora_WinForms.AssemblyInfo.cs
+C:\Users\Mauro\OneDrive\Documentos\Csharp\Calculadora_WinForms\Calculadora_WinForms\obj\Debug\net8.0-windows\Calculadora_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\OneDrive\Documentos\Csharp\Calculadora_WinForms\Calculadora_WinForms\obj\Debug\net8.0-windows\Calculadora_WinForms.dll
+C:\Users\Mauro\OneDrive\Documentos\Csharp\Calculadora_WinForms\Calculadora_WinForms\obj\Debug\net8.0-windows\refint\Calculadora_WinForms.dll
+C:\Users\Mauro\OneDrive\Documentos\Csharp\Calculadora_WinForms\Calculadora_WinForms\obj\Debug\net8.0-windows\Calculadora_WinForms.pdb
+C:\Users\Mauro\OneDrive\Documentos\Csharp\Calculadora_WinForms\Calculadora_WinForms\obj\Debug\net8.0-windows\Calculadora_WinForms.genruntimeconfig.cache
+C:\Users\Mauro\OneDrive\Documentos\Csharp\Calculadora_WinForms\Calculadora_WinForms\obj\Debug\net8.0-windows\ref\Calculadora_WinForms.dll
+C:\Users\Mauro\OneDrive\Documentos\Csharp\Calculadora_WinForms\Calculadora_WinForms\obj\Debug\net8.0-windows\Calculadora_WinForms.Properties.Resources.resources
